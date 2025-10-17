@@ -22,6 +22,7 @@
 "@testing-library/jest-dom": "^6.0.0",
 "babel-jest": "^29.0.0",
 "tailwindcss": "^4.0.0",
+"@tailwindcss/postcss": "^1.0.0",
 "postcss": "^8.0.0",
 "autoprefixer": "^10.0.0",
 "eslint": "^8.0.0",
